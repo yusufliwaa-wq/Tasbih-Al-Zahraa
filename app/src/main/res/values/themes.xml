@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TasbihZahra" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#101210</item>
+        <item name="android:windowBackground">#101210</item>
+    </style>
+</resources>
